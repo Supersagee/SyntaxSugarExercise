@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\bin\Debug\net5.0\SnytaxSugarExerciseConsole.exe
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\bin\Debug\net5.0\SnytaxSugarExerciseConsole.deps.json
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\bin\Debug\net5.0\SnytaxSugarExerciseConsole.runtimeconfig.json
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\bin\Debug\net5.0\SnytaxSugarExerciseConsole.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\bin\Debug\net5.0\SnytaxSugarExerciseConsole.dll
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\bin\Debug\net5.0\ref\SnytaxSugarExerciseConsole.dll
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\bin\Debug\net5.0\SnytaxSugarExerciseConsole.pdb
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.AssemblyInfo.cs
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.dll
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\ref\SnytaxSugarExerciseConsole.dll
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.pdb
+C:\Users\Billy\source\repos\SnytaxSugarExercise\SnytaxSugarExerciseConsole\obj\Debug\net5.0\SnytaxSugarExerciseConsole.genruntimeconfig.cache
